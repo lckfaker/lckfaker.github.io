@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 个人简介
 
-You can use the [editor on GitHub](https://github.com/lckfaker/lckfaker.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+龙嘉豪 男 
+出生年月：2001年11月9日
+专业：金融数学
+学号：2003060003
+政治面貌：共青团员
+电子邮件：3140018650@qq.com
+### 技能总结
+英语四级、计算机二级
+兴趣爱好
+# 羽毛球
+## 游戏
+### 音乐
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 教育背景
+- 大学
 
-### Markdown
+**Bold** 主修课程
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+高等数学、概率论、线性代数
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 获奖情况
 
-### Jekyll Themes
+无
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lckfaker/lckfaker.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 自我评价
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+有充满激情的工作态度，能够在没有监督的情况下按质按量主动完成工作任务、团队协同作战能力强、一定的组织能力和协调能力、擅于发现问题、执行力强、思维缜密、保密性好、承担责任
